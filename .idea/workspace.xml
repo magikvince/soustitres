@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c234a18f-e5c4-4e1a-9c46-80e6729ebcd5" name="Default Changelist" comment="" />
+    <list default="true" id="c234a18f-e5c4-4e1a-9c46-80e6729ebcd5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/subtitlor.zip" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -486,12 +488,12 @@
       <workItem from="1559763817090" duration="1057000" />
       <workItem from="1559841845349" duration="4526000" />
       <workItem from="1559934416046" duration="612000" />
-      <workItem from="1559994719004" duration="1396000" />
+      <workItem from="1559994719004" duration="1681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21800000" />
+    <option name="totallyTimeSpent" value="22085000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
