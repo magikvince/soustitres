@@ -14,6 +14,8 @@
   <body>
   <H1>Editeur de sous-titres</H1>
 
+  <p><c:out value="bonjour vincent" /></p>
+
   <H2>Liste des fichiers:</H2>
 
   <!-- calcul du nombre de fichiers -->
@@ -31,6 +33,7 @@
 
     <label for ="fichier">Fichier : </label>
     <input type="file" name="fichier" id="fichier" />
+    <input type="submit">go</input>
   </form>
 
   </body>
