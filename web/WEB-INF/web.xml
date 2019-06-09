@@ -21,6 +21,15 @@
         <url-pattern>/welcome</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>ImportFile</servlet-name>
+        <servlet-class>servlets.ImportFile</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ImportFile</servlet-name>
+        <url-pattern>/import</url-pattern>
+    </servlet-mapping>
+
     <jsp-config>
         <jsp-property-group>
             <url-pattern>*.jsp</url-pattern>

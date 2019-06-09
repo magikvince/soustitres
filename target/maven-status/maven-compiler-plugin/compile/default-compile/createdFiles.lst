@@ -1,0 +1,10 @@
+model\Fichier.class
+servlets\TraductionForm.class
+model\DaoFichierImpl.class
+model\DaoTraductionImpl.class
+model\Traduction.class
+servlets\ImportFile.class
+servlets\Welcome.class
+model\LigneFichier.class
+model\DaoFactory.class
+model\DaoLigneFichierImpl.class

@@ -3,4 +3,4 @@ git init
 Initialized empty Git repository in E:/OPEN CLASSROOMS/cours/P6/developpez-des-sites-web-avec-java-ee/intelliJ/EditeurSousTitres/.git/
 
 
-https://github.com/magikvince/soustitres.git
+git remote add origin https://github.com/magikvince/soustitres.git
