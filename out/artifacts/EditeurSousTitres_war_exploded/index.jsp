@@ -7,18 +7,20 @@
   <body>
   <H1>Editeur de sous-titres</H1>
 
-  <p><c:out value="bonjour vincent" /></p>
-
   <H2>Liste des fichiers:</H2>
 
   <!-- calcul du nombre de fichiers -->
+    <c:out value="bonjour Anthony" />
 
-  <c:if test="${ ! empty description} " >
-     <p> description : ${description}</p>
+  <c:if test="${ ! empty nomfic } " >
+      <p> <c:out value=" nomfic : ${nomfic} ${nomFicher} "/></p>
+  </c:if>
+
+  <c:if test="${ empty description }" >
+     <p> <c:out value=" description : ${description} "/></p>
   </c:if>
 
   <H2>Liste des travaux en cours:</H2>
-
 
   <H2>Importer un fichier dans la base de données</H2>
   <form method="post" action="/import" enctype="multipart/form-data">
@@ -33,7 +35,9 @@
       <input type="file" name="fichier" id="fichier" /><br/>
     </p>
 
-      <input type="submit" value="import"/>
+    <p>
+      <input type="submit" value="IMPORT DU FICHIER"/>
+    </p>
   </form>
 
   </body>

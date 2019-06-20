@@ -10,6 +10,7 @@
 
     <dependencies>
 
+
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
@@ -19,24 +20,22 @@
 
         <dependency>
             <groupId>javax.servlet.jsp</groupId>
-            <artifactId>javax.servlet.jsp-api</artifactId>
-            <version>2.3.3</version>
+            <artifactId>jsp-api</artifactId>
+            <version>2.2</version>
             <scope>provided</scope>
         </dependency>
 
         <dependency>
-            <groupId>jstl</groupId>
+            <groupId>javax.servlet</groupId>
             <artifactId>jstl</artifactId>
             <version>1.2</version>
-            <scope>provided</scope>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
         <dependency>
             <groupId>org.postgresql</groupId>
-            <artifactId>pgjdbc-versions</artifactId>
-            <version>1.1.5</version>
-            <type>pom</type>
-            <scope>provided</scope>
+            <artifactId>postgresql</artifactId>
+            <version>42.2.5</version>
         </dependency>
     </dependencies>
 

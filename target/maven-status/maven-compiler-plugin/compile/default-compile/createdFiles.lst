@@ -1,10 +1,11 @@
 model\Fichier.class
 servlets\TraductionForm.class
-model\DaoFichierImpl.class
-model\DaoTraductionImpl.class
 model\Traduction.class
 servlets\ImportFile.class
+model\FichierDaoImpl.class
 servlets\Welcome.class
 model\LigneFichier.class
+model\LigneFichierDaoImpl.class
 model\DaoFactory.class
-model\DaoLigneFichierImpl.class
+model\TraductionDaoImpl.class
+model\FichierDao.class

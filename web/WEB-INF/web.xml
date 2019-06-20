@@ -24,6 +24,12 @@
     <servlet>
         <servlet-name>ImportFile</servlet-name>
         <servlet-class>servlets.ImportFile</servlet-class>
+        <multipart-config>
+            <location>C:\OC_TEMP_FILES</location> <!-- A adapter chez vous -->
+            <max-file-size>10485760</max-file-size> <!-- 10 Mo -->
+            <max-request-size>10485760</max-request-size> <!-- 10 Mo -->
+            <file-size-threshold>1048576</file-size-threshold> <!-- 1 Mo -->
+        </multipart-config>
     </servlet>
     <servlet-mapping>
         <servlet-name>ImportFile</servlet-name>

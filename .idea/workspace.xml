@@ -7,41 +7,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c234a18f-e5c4-4e1a-9c46-80e6729ebcd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/FichierDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/password_presentation.srt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EditeurSousTitres.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EditeurSousTitres.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_ear_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_ear_exploded/META-INF/application.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/DaoFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/DaoFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/DaoFichierImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/DaoFichierImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/DaoLigneFichierImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/DaoLigneFichierImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/DaoTraductionImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/DaoTraductionImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/DaoFichierImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/DaoLigneFichierImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/DaoTraductionImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/Fichier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/Fichier.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/LigneFichier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/LigneFichier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/Traduction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/model/Traduction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/servlets/TraductionForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/servlets/TraductionForm.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/servlets/Welcome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/classes/servlets/Welcome.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/EditeurSousTitres_war_exploded/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/.settings/.jsdtscope" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/.settings/org.eclipse.wst.common.component" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/WebContent/WEB-INF/edit_subtitle.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/WebContent/WEB-INF/password_presentation.srt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/WebContent/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/src/com/subtitlor/servlets/EditSubtitle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subtitlor/src/com/subtitlor/utilities/SubtitlesHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/DaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/DaoFichierImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/FichierDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/DaoLigneFichierImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/LigneFichierDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/DaoTraductionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/TraductionDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Fichier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Fichier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/LigneFichier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/LigneFichier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/ImportFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/ImportFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/Welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
@@ -76,19 +71,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/styles.css">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/LigneFichier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="193">
+              <caret line="14" column="49" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -96,29 +82,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/model/Fichier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Welcome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="153">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="43" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
+                <element signature="e#927#928#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -126,8 +95,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/servlets/ImportFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/FichierDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/FichierDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="22" column="79" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,20 +128,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/taglibs.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="136">
+              <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/servlets/TraductionForm.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Welcome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="190">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -167,6 +184,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>E:\OPEN CLASSROOMS\cours\P6\developpez-des-sites-web-avec-java-ee\intelliJ\subtitlor\src\com\subtitlor\utilities</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -174,21 +196,23 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web/styles.css" />
-        <option value="$PROJECT_DIR$/src/main/java/model/LigneFichier.java" />
-        <option value="$PROJECT_DIR$/src/main/java/model/Fichier.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/Traduction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/model/DaoFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/DaoFichierImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/DaoLigneFichierImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/DaoTraductionImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/servlets/TraductionForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/servlets/importFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/servlets/Welcome.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/model/FichierDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/DaoFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Fichier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/LigneFichier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/FichierDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/servlets/ImportFile.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/taglibs.jsp" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/servlets/importFile.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/servlets/ImportFile.java" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
       </list>
     </option>
   </component>
@@ -240,10 +264,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="2050" />
+    <option name="y" value="92" />
+    <option name="width" value="1549" />
+    <option name="height" value="836" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -251,6 +275,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,6 +287,49 @@
             <path>
               <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
               <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="EditeurSousTitres_war_exploded" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="EditeurSousTitres_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="EditeurSousTitres_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="EditeurSousTitres_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -279,18 +348,49 @@
             <path>
               <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
               <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
               <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="servlets" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-compiler-plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-compiler-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="compile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EditeurSousTitres" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-compiler-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="compile" type="462c0819:PsiDirectoryNode" />
+              <item name="default-compile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
@@ -303,12 +403,29 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="EditeurSousTitres" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,7 +433,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -327,6 +444,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OPEN CLASSROOMS\cours\P6\developpez-des-sites-web-avec-java-ee\intelliJ\EditeurSousTitres\src\main\resources" />
       <recent name="E:\OPEN CLASSROOMS\cours\P6\developpez-des-sites-web-avec-java-ee\intelliJ\EditeurSousTitres\web\WEB-INF\lib" />
     </key>
   </component>
@@ -343,10 +461,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.14">
-    <configuration name="jstl-1.2.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$MAVEN_REPOSITORY$/jstl/jstl/1.2/jstl-1.2.jar!/" />
-      <method v="2" />
-    </configuration>
     <configuration name="EditeurSousTitres []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -456,8 +570,8 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_14_EditeurSousTitres" />
       </server-settings>
-      <log_file alias="Tomcat Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/manager.*" />
-      <log_file alias="Tomcat Host Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/host-manager.*" />
+      <log_file checked="false" alias="Tomcat Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/manager.*" />
+      <log_file checked="false" alias="Tomcat Host Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/host-manager.*" />
       <log_file alias="Tomcat Localhost Access Log" path="%IDEA_RUN:CATALINA_BASE%/logs/localhost_access_log.*" />
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -517,15 +631,9 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JAR Application.jstl-1.2.jar" />
       <item itemvalue="Maven.EditeurSousTitres []" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.14" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JAR Application.jstl-1.2.jar" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -555,11 +663,21 @@
       <workItem from="1560080194465" duration="7465000" />
       <workItem from="1560100960985" duration="3357000" />
       <workItem from="1560110926128" duration="4029000" />
+      <workItem from="1560161911425" duration="5033000" />
+      <workItem from="1560278616660" duration="6050000" />
+      <workItem from="1560367083683" duration="3608000" />
+      <workItem from="1560447980309" duration="3708000" />
+      <workItem from="1560618040980" duration="985000" />
+      <workItem from="1560687503177" duration="3367000" />
+      <workItem from="1560802167707" duration="1806000" />
+      <workItem from="1560886008362" duration="1877000" />
+      <workItem from="1560969755589" duration="10015000" />
+      <workItem from="1561053144262" duration="4718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39626000" />
+    <option name="totallyTimeSpent" value="80793000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -571,26 +689,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7941495" visible="true" weight="0.22867803" />
-      <window_info id="Structure" order="1" sideWeight="0.15904936" side_tool="true" weight="0.18017058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.36666667" visible="true" weight="0.2260128" />
+      <window_info id="Structure" order="1" sideWeight="0.6333333" side_tool="true" weight="0.2260128" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.3263328" side_tool="true" weight="0.17697228" />
-      <window_info id="JavaEE:App" order="7" sideWeight="0.15904936" side_tool="true" weight="0.18017058" />
-      <window_info id="Web" order="8" sideWeight="0.20585048" side_tool="true" visible="true" weight="0.22867803" />
+      <window_info id="Favorites" order="6" sideWeight="0.16272601" side_tool="true" weight="0.2260128" />
+      <window_info id="JavaEE:App" order="7" sideWeight="0.16228071" side_tool="true" weight="0.2260128" />
+      <window_info id="Web" order="8" sideWeight="0.16228071" side_tool="true" weight="0.2260128" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36511377" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42578548" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.25135428" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.11700975" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -601,13 +719,48 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.2153518" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.15191898" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.36666667" visible="true" weight="0.2260128" />
+      <window_info id="Structure" order="1" sideWeight="0.6333333" side_tool="true" visible="true" weight="0.2260128" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.16272601" side_tool="true" weight="0.2260128" />
+      <window_info id="JavaEE:App" order="7" sideWeight="0.16228071" side_tool="true" weight="0.2260128" />
+      <window_info id="Web" order="8" sideWeight="0.16228071" side_tool="true" weight="0.2260128" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.9674973" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.11700975" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.15191898" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -618,49 +771,10 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/LigneFichier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/model/Traduction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/DaoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/DaoFichierImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -684,14 +798,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/DaoTraductionImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/DaoLigneFichierImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/TraductionDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" selection-start-column="8" selection-end-column="8" />
@@ -700,14 +807,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="136">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/servlets/TraductionForm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -715,48 +822,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/taglibs.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/LigneFichierDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/password_presentation.srt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/Fichier.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/DaoFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Welcome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="289">
+          <caret line="26" column="123" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="123" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/FichierDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/FichierDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="22" column="79" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Fichier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/LigneFichier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/servlets/ImportFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/jstl/1.2/jstl-1.2.jar!/META-INF/c.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2992">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/maven-archiver/pom.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Welcome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -765,8 +913,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        <state relative-caret-position="153">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/taglibs.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>

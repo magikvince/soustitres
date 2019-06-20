@@ -39,4 +39,12 @@ public class Fichier
     public void setDescription(String description) {
         this.description = description;
     }
+
+
+    public void ajouterLigneFichier (LigneFichier ligne)
+    {
+        this.lignes.add(ligne);
+    }
+
 }
+

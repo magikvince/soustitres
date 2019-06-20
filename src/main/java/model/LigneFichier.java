@@ -6,8 +6,18 @@ public class LigneFichier
 {
     private int idLigne;
     private int numLigne;
-    private LocalTime time;
+    private String debut;
+    private String fin;
+    private String time;
     private String texte;
+
+
+    public LigneFichier(int numLigne, String time, String texte)
+    {
+        this.numLigne = numLigne;
+        this.time = time;
+        this.texte = texte;
+    }
 
     public int getIdLigne() {
         return idLigne;
@@ -25,11 +35,11 @@ public class LigneFichier
         this.numLigne = numLigne;
     }
 
-    public LocalTime getTime() {
+    public String getTime() {
         return time;
     }
 
-    public void setTime(LocalTime time) {
+    public void setTime(String time) {
         this.time = time;
     }
 
